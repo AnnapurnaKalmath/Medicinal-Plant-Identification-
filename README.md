@@ -14,7 +14,7 @@ requirements.txt: Lists required Python packages for the project.
 # Output
 Plant Name: Provides the name of the medicinal plant identified from the input image.
 Model Accuracy: Displays the accuracy metrics of the trained model.
-![image alt]((https://github.com/AnnapurnaKalmath/Medicinal-Plant-Identification-/blob/08bb10be3c58176c905ab41fdbd937f8d4be512d/output1.jpg))
+![image alt](https://github.com/AnnapurnaKalmath/Medicinal-Plant-Identification-/blob/08bb10be3c58176c905ab41fdbd937f8d4be512d/output1.jpg)
 ![image alt](https://github.com/AnnapurnaKalmath/Medicinal-Plant-Identification-/blob/08bb10be3c58176c905ab41fdbd937f8d4be512d/output2.jpg)
 
 # Dataset Used
